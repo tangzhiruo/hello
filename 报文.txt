@@ -1,0 +1,37 @@
+{
+  "retCode": "000000",
+  "retDesc": "SUCCESS",
+  "rspBody": {
+    "monthCount": "7",
+    "typeList": [
+      {
+        "typeCode": "01",
+        "typeName": "套餐及固定费用详单"
+      },
+      {
+        "typeCode": "02",
+        "typeName": "通话详单"
+      },
+      {
+        "typeCode": "03",
+        "typeName": "短/彩信详单"
+      },
+      {
+        "typeCode": "04",
+        "typeName": "上网详单"
+      },
+      {
+        "typeCode": "05",
+        "typeName": "增值业务扣费记录"
+      },
+      {
+        "typeCode": "06",
+        "typeName": "代收费业务扣费记录"
+      },
+      {
+        "typeCode": "07",
+        "typeName": "其它费用扣费记录"
+      }
+    ]
+  }
+}
